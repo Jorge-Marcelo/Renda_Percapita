@@ -33,7 +33,7 @@ color: white;
 form{
 display: flex;
 flex-direction: column;
-margin: 130px 50px;
+margin: 200px 50px;
 gap: 30px;
 background-color: #262626;
 padding: 20px;
@@ -173,7 +173,7 @@ font-size: 1.6em;
 }
 
 .sucesso{
-font-size: 0.8em;
+font-size: 0.7em;
 }
 
 h1{
@@ -194,6 +194,10 @@ font-size: 1.1em;
 
 label{
 font-size: 1.4em;
+}
+
+.sucesso{
+font-size: 0.6em;
 }
 
 }
