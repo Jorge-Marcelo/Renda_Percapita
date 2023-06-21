@@ -205,6 +205,26 @@ font-size: 0.6em;
 
 @media(max-width:410px){
 .sucesso{
+font-size: 0.6em;
+}
+
+.error{
+font-size: 0.6em;
+color: red;
+text-align: left;
+}
+
+
+.error2{
+font-size: 0.6em;
+color: red;
+text-align: left;
+}
+}
+
+
+@media(max-width:414px){
+.sucesso{
 font-size: 0.7em;
 }
 
@@ -221,4 +241,5 @@ color: red;
 text-align: left;
 }
 }
+
 
