@@ -223,22 +223,9 @@ text-align: left;
 }
 
 
-@media(max-width:414px){
+@media(max-width: 370px){
 .sucesso{
-font-size: 0.7em;
-}
-
-.error{
-font-size: 0.6em;
-color: red;
-text-align: left;
-}
-
-
-.error2{
-font-size: 0.6em;
-color: red;
-text-align: left;
+font-size: 0.5em;
 }
 }
 
